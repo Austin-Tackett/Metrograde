@@ -1,0 +1,63 @@
+body {
+	background: black;
+	background-size: 100% auto;
+	background-position: auto;
+	background-repeat: no-repeat;
+	padding-top: 70px;
+}
+
+.nav.navbar-nav.navbar-right{
+	margin-right: 2%;
+	font-size:3rem;
+	color:#9d9d9d;
+}
+
+
+#facebook{
+	padding-left:5px;
+	padding-right:5px;
+}
+
+#facebook a{
+	padding-top:7px;
+	padding-bottom:10px;
+	padding-right:2px;
+}
+
+#instagram{
+	padding-left:5px;
+	padding-right:5px;
+}
+
+#instagram a{
+	padding-top:7px;
+	padding-bottom:10px;
+	padding-right:2px;
+}
+
+#youtube{
+	padding-left:5px;
+	padding-right:5px;
+}
+
+#youtube a{
+	padding-top:7px;
+	padding-bottom:10px;
+}
+
+.navbar-brand{
+	font-family: "russo one", sans-serif;
+}
+
+
+.nav{
+	font-family:"russo one";
+}
+
+.jumbotron{
+	color:white;
+	background-color: rgba(102, 102, 102, 0.5);
+	font-family:"roboto condensed", sans-serif;
+	font-weight:bolder;
+}
+

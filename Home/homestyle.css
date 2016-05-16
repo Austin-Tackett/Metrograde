@@ -1,0 +1,184 @@
+html{
+	height: 100%;
+}
+
+body {
+	background: url(../full1.jpg) black;
+	background-size: 100% auto;
+	background-position: auto;
+	background-repeat: no-repeat;
+	padding-top: 70px;
+}
+
+
+h1{
+	color:  white;
+	text-align: center;
+	font-family: "russo one", sans-serif;
+	letter-spacing: 5%;
+	font-size: 7em;
+	text-transform: uppercase;
+	padding-top: 1%;
+	padding-bottom: 35%;
+	letter-spacing: 50px;
+}
+
+h3{
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:8%;
+	margin-bottom: 2%;
+	padding-bottom: 1%;
+	font-family: "roboto condensed", sans-serif;
+	font-size: 4em;
+	font-weight: 700;
+	border-bottom: 1px solid white;
+	width: 300px;
+
+}
+
+.nav.navbar-nav.navbar-right{
+	margin-right: 2%;
+	font-size:3rem;
+	color:#9d9d9d;
+}
+
+
+#facebook{
+	padding-left:5px;
+	padding-right:5px;
+}
+
+#facebook a{
+	padding-top:7px;
+	padding-bottom:10px;
+	padding-right:2px;
+}
+
+#instagram{
+	padding-left:5px;
+	padding-right:5px;
+}
+
+#instagram a{
+	padding-top:7px;
+	padding-bottom:10px;
+	padding-right:2px;
+}
+
+#youtube{
+	padding-left:5px;
+	padding-right:5px;
+}
+
+#youtube a{
+	padding-top:7px;
+	padding-bottom:10px;
+}
+
+
+#aboutus{
+	color:white;
+	font-family:"roboto condensed", sans-serif;
+	font-size: 16px;
+	margin:10%;
+}
+
+.aboutus{
+	margin-top: auto;
+	padding: 50px;
+	background: black;
+	border: 1px solid rgba(0,0,0,0.8);
+	text-align: center;
+	padding-bottom: 4%;
+	border-bottom: 1px solid black;
+}
+
+
+.navbar-brand{
+	font-family: "russo one", sans-serif;
+}
+
+
+.nav{
+	font-family:"russo one";
+}
+
+#upcoming{
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:4%;
+	margin-bottom: 4%;
+	padding-bottom: 1%;
+	font-family: "roboto condensed", sans-serif;
+	font-size: 4em;
+	font-weight: 700;
+	border-bottom: 1px solid white;
+	width: 400px;
+}
+
+ul.shows{
+	color: white;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 40px;
+	font-family:"roboto condensed", sans-serif;
+	padding-top:5%;
+	padding-left:3%;
+	padding-right:3%;
+}
+
+li.show-list{
+	padding-top:2%;
+	padding-bottom:2%;
+	border-top:1px solid grey;
+	border-bottom:1px solid grey;
+	width:100%;
+}
+
+#Date{
+	padding:20px;
+	margin-right:4%;
+}
+
+
+
+#Venue{
+	padding:20px;
+	margin-left:4%;
+	margin-right:3%;
+}
+
+#City{
+	padding:20px;
+	margin-left:5%;
+}
+
+.socialmedia{
+	width:100%;
+}
+
+li{
+	text-align:center;
+	display:inline-block;
+	margin:0 auto;
+}
+
+#copyright{
+	text-align:center;
+	font-family:"roboto condensed", sans-serif;
+	font-size:1.2em;
+	color:white;
+}
+
+
+
+
+
+
+
+
+
+
